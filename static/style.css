@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#content {
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    background-color: #1d1e24;
+}
+
+#theFrame {
+    width: 1020px;
+    height: 720px;
+    margin: auto;
+}
